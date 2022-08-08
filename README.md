@@ -1,4 +1,4 @@
-<h1 align="center">Heyy 👋, I'm Hellodude</h1>
+<h1 align="center">Heyy 👋, I'm Aryan</h1>
 
 
 <h3 align="center">A Passionate Self Taught Full Stack Developer</h3>
