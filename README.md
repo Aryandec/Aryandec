@@ -1,14 +1,14 @@
 <h1 align="center">Heyy 👋, I'm Aryan</h1>
 
 
-<h3 align="center">A Passionate Self Taught Full Stack Developer</h3>
+<h3 align="center">A Passionate Self Taught FrontedDeveloper</h3>
 <div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-2/774913651349127169.png"></div>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CrystalAndQuard&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
- <p href="https://github.com/CrystalAndQuard?tab=followers"><img src="https://img.shields.io/github/followers/CrystalAndQuard?label=Followers&style=flat-square" alt="GitHub Badge"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aryandec&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
+ <p href="https://github.com/Aryandec?tab=followers"><img src="https://img.shields.io/github/followers/Aryandeclabel=Followers&style=flat-square" alt="GitHub Badge"></a>
 
 
 
@@ -35,11 +35,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
