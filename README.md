@@ -8,13 +8,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aryandec&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
- <p href="https://github.com/Aryandec?tab=followers"><img src="https://img.shields.io/github/followers/Aryandeclabel=Followers&style=flat-square" alt="GitHub Badge"></a>
+ <p href="https://github.com/Aryandec?tab=followers"><img src="https://img.shields.io/github/followers/Aryandec&label=Followers&style=flat-square" alt="GitHub Badge"></a>
 
 
 
 - 🔭 I’m currently working on - **Improving my Skills and new projects**
 
-- 🌱 I’m currently learning - **C,C++**
+- 🌱 I’m currently learning - **Typescript**
 
 - 💬 Ask me about - **Javascript & Maths**
 
@@ -27,7 +27,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -45,7 +44,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/CrystalAndQuard/github-readme-streak-stats">
+    <a href="https://github.com/Aryandec/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aryan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aryandec&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
