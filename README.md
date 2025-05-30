@@ -1,8 +1,8 @@
 <h1 align="center">Heyy 👋, I'm Aryan</h1>
 
 
-<h3 align="center">A Passionate Self Taught FrontedDeveloper</h3>
-<div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-2/774913651349127169.png"></div>
+<h3 align="center">A Chill Guy</h3>
+<div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-2/879645759883051049.png"></div>
 
 
 
