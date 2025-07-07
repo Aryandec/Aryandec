@@ -33,8 +33,8 @@ I'm an 17-year-old high school senior from India passionate about building the f
 
 ### 📫 Let’s Connect
 - 🐦 [Twitter](https://twitter.com/aryanbhx) 
-- 📬 [Blog](https://aryanbhx.vercel.com/blog) 
-- 🌐 [Website](https://aryanbhx.vercell.app.com) 
+- 📬 [Blog](https://aryanbhx.vercel.app/blog)
+- 🌐 [Website](https://aryanbhx.vercell.app) 
 
 ---
 
