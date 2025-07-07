@@ -2,7 +2,7 @@
 
 ## 🚀 High school founder, AI enthusiast, and future holding company mogul
 
-I'm an 18-year-old high school senior from India passionate about building the future with AI. I've founded and scaled multiple AI-based startups, won major hackathons, delivered speeches in the US, and invested in game-changing ideas—all while staying full-time in school.
+I'm an 17-year-old high school senior from India passionate about building the future with AI.
 
 ### 👨‍💻 What I'm Working On
 - **🛠️ Bookmark Manager** – A modern web bookmark manager to save links, organize resources, add notes, and rediscover your favorite content across the web.
