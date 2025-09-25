@@ -5,7 +5,6 @@
 I'm an 17-year-old high school senior from India passionate about building the future with AI.
 
 ### 👨‍💻 What I'm Working On
-- **🛠️ Bookmark Manager** – A modern web bookmark manager to save links, organize resources, add notes, and rediscover your favorite content across the web.
 - **🌐 Lily AI Agent** - A AI Agent that can create, delete and update tasks and events from google calender and todoist.
 
 ### 🏆 Achievements
@@ -14,7 +13,6 @@ I'm an 17-year-old high school senior from India passionate about building the f
 ### 🎯 Goals for 2025
 - Launch an AI agent marketplace
 - Learn Spanish  🇪🇸
-- Create or try to create A Pathology AI Agent
 
 ---
 
