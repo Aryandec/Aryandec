@@ -1,23 +1,14 @@
 # 👋 Hey there, I'm Aryan!
 
-## 🚀 High school founder, AI enthusiast, and future holding company mogul
-
-I'm an 17-year-old high school senior from India passionate about building the future with AI.
-
-### 👨‍💻 What I'm Working On
-- **🌐 Lily AI Agent** - A AI Agent that can create, delete and update tasks and events from google calender and todoist.
-
-### 🏆 Achievements
-- 🧠 Scored consistently 90%+ in school
+Chill Dude making stuff that are fun
 
 ### 🎯 Goals for 2025
-- Launch an AI agent marketplace
+- Expand Knowledge 
 - Learn Spanish  🇪🇸
 
 ---
 
 ### 🛠️ Tech & Tools I Use
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=flat&logo=langchain)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
