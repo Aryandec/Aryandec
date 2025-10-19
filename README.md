@@ -27,6 +27,6 @@ Chill Dude making stuff that are fun
 
 ---
 
-_“If you're not building the future, you're just reacting to it.” – Me, probably._
+_“Loyalty is a two-way street. If I’m asking for it from you, then you’re getting it from me” – Harvey Specter._
 
 ⭐ If you like what I do, star a repo or [reach out](mailto:aryanbh480@gmail.com)—let’s build something epic.
