@@ -2,9 +2,8 @@
 
 Chill Dude making stuff that are fun
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 - Expand Knowledge 
-- Learn Spanish  🇪🇸
 
 ---
 
