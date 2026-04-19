@@ -3,7 +3,7 @@
 Chill Dude making stuff that are fun
 
 ### 🎯 Goals for 2026
-- Expand Knowledge 
+- Make a Multi Agent AI system
 
 ---
 
