@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Aryan!
 
-Chill Dude making stuff that are fun
+Chill Dude making stuff for fun
 
 ### 🎯 Goals for 2026
-- Make a Multi Agent AI system
-
+- Learn about AI Agents
+- 
 ---
 
 ### 🛠️ Tech & Tools I Use
@@ -23,7 +23,7 @@ Chill Dude making stuff that are fun
 ### 📫 Let’s Connect
 - 🐦 [Twitter](https://twitter.com/aryanbhx) 
 - 📬 [Blog](https://aryanbhx.vercel.app/blog)
-- 🌐 [Website](https://aryanbhx.vercell.app) 
+- 🌐 [Website](https://aryanbhx.vercel.app/) 
 
 ---
 
